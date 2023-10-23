@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/SOTO-portfolio/static/css/main.ed17eac5.css",
-    "main.js": "/SOTO-portfolio/static/js/main.592ba69e.js",
+    "main.js": "/SOTO-portfolio/static/js/main.974b6fdf.js",
     "static/media/revicons.eot": "/SOTO-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/SOTO-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/SOTO-portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/SOTO-portfolio/index.html",
     "main.ed17eac5.css.map": "/SOTO-portfolio/static/css/main.ed17eac5.css.map",
-    "main.592ba69e.js.map": "/SOTO-portfolio/static/js/main.592ba69e.js.map"
+    "main.974b6fdf.js.map": "/SOTO-portfolio/static/js/main.974b6fdf.js.map"
   },
   "entrypoints": [
     "static/css/main.ed17eac5.css",
-    "static/js/main.592ba69e.js"
+    "static/js/main.974b6fdf.js"
   ]
 }
