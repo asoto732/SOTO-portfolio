@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "homepage": "https://asoto732.github.io/SOTO-portfolio",
   "name": "portfolio",
   "version": "0.1.0",
@@ -44,5 +45,9 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.3.3"
+=======
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+>>>>>>> 4fe5af0f5448403fd3e71f9ff7c7210e8f13ffbc
   }
 }
